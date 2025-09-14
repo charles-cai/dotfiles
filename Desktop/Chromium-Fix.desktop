@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Chromium Fix
+Comment=Web Browser
+Exec=/snap/chromium/current/usr/lib/chromium-browser/chrome
+Icon=/snap/chromium/current/chromium.png
+Terminal=false
+Type=Application
+Categories=Network;WebBrowser

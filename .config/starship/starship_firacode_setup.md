@@ -10,7 +10,8 @@ fc-list
 fc-list |sort
 
 gsettings get org.gnome.desktop.interface monospace-font-name
-# Example: 'Ubuntu Mono 13'
+# Example: 'Ubuntu Mono 13', or 'Monospace 11'
+
 ```
 *(Save this to revert later if needed.)*
 
